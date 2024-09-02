@@ -216,3 +216,4 @@ if __name__ == '__main__':
 
     whatsapp = WhatsappMessage(sheet_name=args.sheet_name, image_path=args.image_path, poll_sheet_name=args.poll_sheet_name)
     whatsapp.start_process()
+#poll to be implemented
